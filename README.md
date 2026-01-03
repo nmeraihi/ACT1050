@@ -24,14 +24,14 @@ Bienvenue dans le répertoire du cours ACT1050. Ce cours couvre les fondamentaux
 
 ## Comment Utiliser ce Matériel
 
-Cliquez sur les liens ci-dessus pour accéder aux présentations interactives de chaque module. Les diapositives s'ouvriront dans votre navigateur en mode présentation Reveal.js. Utilisez les flèches ou la barre d'espace pour naviguer entre les diapositives.
+Cliquez sur les liens ci-dessus pour accéder aux présentations interactives de chaque module. Les diapositives s'ouvriront dans votre navigateur en mode présentation.
 
-## Technologies Utilisées
+### Navigation dans les Diapositives
 
-- **Jupyter Notebook** - Environnement interactif pour les présentations
-- **Reveal.js** - Framework de présentation HTML
-- **nbviewer** - Visualisation des notebooks en mode diapositives
-- **GitHub** - Hébergement et versioning du contenu
+- **Flèches directionnelles** (← → ↑ ↓) - Naviguer entre les diapositives
+- **Barre d'espace** - Avancer à la diapositive suivante
+- **Touche ESC** - Afficher l'aperçu de toutes les diapositives
+- **Contrôles de navigation** - Disponibles dans le coin inférieur droit de l'écran
 
 ---
 
